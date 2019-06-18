@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medio", "Medio\Medio.csproj", "{74EC9948-15AA-434E-98D4-92AB2F643CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74EC9948-15AA-434E-98D4-92AB2F643CFC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{74EC9948-15AA-434E-98D4-92AB2F643CFC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{74EC9948-15AA-434E-98D4-92AB2F643CFC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{74EC9948-15AA-434E-98D4-92AB2F643CFC}.Release|iPhone.Build.0 = Release|iPhone
+		{74EC9948-15AA-434E-98D4-92AB2F643CFC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{74EC9948-15AA-434E-98D4-92AB2F643CFC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{74EC9948-15AA-434E-98D4-92AB2F643CFC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{74EC9948-15AA-434E-98D4-92AB2F643CFC}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
