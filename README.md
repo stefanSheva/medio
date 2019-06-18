@@ -1,3 +1,3 @@
 # medio
 
-# Scholl iOS project developed in Xamarin.iOS
+# School iOS project developed in Xamarin.iOS
